@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Authentication page test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-01T20:17:29" hostname="PB0B0836960" time="204.455">
+  <properties/>
+  <testcase name="Authentication sucess in the page" classname="Authentication page test" time="204.455"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73) on port 21074
+Only local connections are allowed.
+may. 01, 2021 3:17:34 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+ERROR StatusLogger No log4j2 configuration file found. Using default configuration: logging only errors to the console.
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Authentication sucess in the page
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
